@@ -1,6 +1,7 @@
 # IMPACT_OF_SOCIAL_MEDIA_ON_HUMANS
 
 SIGNIFICANT IMPACT OF SOCIAL MEDIA ON HUMANS - A MACHINE LEARNING APPROACH
+
 Social media has become a better part of our lives in today's world. Most of us are
 so involved in social media apps like Facebook, WhatsApp, Snapchat etc. The
 more people are involved the more they face the risk of exposure to the world.
